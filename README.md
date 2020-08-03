@@ -9,7 +9,7 @@
 
 ## Install
 
-- Clone project or [download](https://github.com/Rustvk/EmailInput/archive/master.zip) sources to your computer
+- Clone project or [download](https://github.com/Rustvk/Billing-Data-Modal/archive/master.zip) sources to your computer
 - Open command line in **server** directory and run command:
 ```
   node index.js
